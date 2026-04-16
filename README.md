@@ -99,6 +99,7 @@ The final reported workflow follows these principles:
 ## Dataset
 
 This study uses the UNSW-NB15 dataset.
+UNSW_NB15_training-set.csv (Dataset.zip)
 
 The dataset should be obtained from the official UNSW Research dataset page for UNSW-NB15.
 
