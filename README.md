@@ -7,7 +7,7 @@ Leakage-aware hybrid feature selection pipeline for intrusion detection on the U
 - **Repository name:** hybrid-igl1
 - **Project lead / maintainer:** Andri Saputra
 - **Authors:** Andri Saputra, Kalamullah Ramli, Anto Satriyo Nugroho, I Gde Dharma Nugraha, Bernardi Pranggono
-- **Repository metadata update:** 2026-04-16
+- **Repository metadata update:** 2026-04-15
 - **Status:** Research code accompanying a manuscript under journal review
 
 ## Related Manuscript
