@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "hybrid-igl1"
+type: software
+version: "1.0.0"
+date-released: 2026-04-16
+license: "GPL-3.0"
+repository-code: "https://github.com/rgfairness/hybrid-igl1"
+url: "https://github.com/rgfairness/hybrid-igl1"
+authors:
+  - family-names: "Saputra"
+    given-names: "Andri"
+    email: "andri.saputra31@ui.ac.id"
+  - family-names: "Ramli"
+    given-names: "Kalamullah"
+  - family-names: "Nugroho"
+    given-names: "Anto Satriyo"
+  - family-names: "Nugraha"
+    given-names: "I Gde Dharma"
+  - family-names: "Pranggono"
+    given-names: "Bernardi"
+abstract: >
+  Research software repository for a leakage-aware hybrid feature selection
+  pipeline (IGL1) for intrusion detection on the UNSW-NB15 dataset using
+  Information Gain and L1-regularized LinearSVC, with evaluation across
+  multiple machine learning models.
+keywords:
+  - intrusion detection
+  - feature selection
+  - information gain
+  - L1-regularization
+  - IGL1
+  - UNSW-NB15
+  - machine learning
