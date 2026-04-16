@@ -98,9 +98,11 @@ The final reported workflow follows these principles:
 
 ## Dataset
 
-This study uses the **UNSW-NB15** dataset.
+This study uses the UNSW-NB15 dataset.
 
-Users are responsible for ensuring that dataset access, reuse, and redistribution comply with the original dataset terms and citation requirements.
+The dataset should be obtained from the official UNSW Research dataset page for UNSW-NB15.
+
+Users are responsible for complying with the original dataset access conditions, redistribution terms, and citation requirements specified by the dataset authors.
 
 ## Environment
 
