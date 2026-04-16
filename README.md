@@ -96,14 +96,15 @@ The final reported workflow follows these principles:
 - the final reported run uses a **reduced six-class configuration**
 - **no controlled oversampling** is used in the final reported run
 
+
 ## Dataset
 
 This study uses the UNSW-NB15 dataset.
-UNSW_NB15_training-set.csv (Dataset.zip)
 
 The dataset should be obtained from the official UNSW Research dataset page for UNSW-NB15.
 
 Users are responsible for complying with the original dataset access conditions, redistribution terms, and citation requirements specified by the dataset authors.
+
 
 ## Environment
 
