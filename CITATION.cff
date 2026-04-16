@@ -3,7 +3,7 @@ message: "If you use this repository, please cite it as follows."
 title: "hybrid-igl1"
 type: software
 version: "1.0.0"
-date-released: 2026-04-16
+date-released: 2026-04-15
 license: "GPL-3.0"
 repository-code: "https://github.com/rgfairness/hybrid-igl1"
 url: "https://github.com/rgfairness/hybrid-igl1"
