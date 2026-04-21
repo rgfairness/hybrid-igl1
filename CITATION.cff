@@ -19,6 +19,10 @@ authors:
     given-names: "I Gde Dharma"
   - family-names: "Pranggono"
     given-names: "Bernardi"
+  - family-names: "Saputra"
+    given-names: "Ferry Astika"
+  - family-names: "Rahardjo"
+    given-names: "Sasono"
 abstract: >
   Research software repository for a leakage-aware hybrid feature selection
   pipeline (IGL1) for intrusion detection on the UNSW-NB15 dataset using
