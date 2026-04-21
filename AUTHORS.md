@@ -15,4 +15,4 @@ Email: `andri.saputra31@ui.ac.id`
 ## Project Note
 This repository accompanies the manuscript:
 
-*A Hybrid IGL1 Feature Selection Method for Intrusion Detection on UNSW-NB15 Using Multiple Machine Learning Models*
+*A Novel Hybrid IGL1 Feature Selection Method for High-Per-2 formance Intrusion Detection on the UNSW-NB15 Dataset Us-3 ing Multiple Machine Learning Models* 
