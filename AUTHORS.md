@@ -9,6 +9,8 @@ Email: `andri.saputra31@ui.ac.id`
 - Anto Satriyo Nugroho
 - I Gde Dharma Nugraha
 - Bernardi Pranggono
+- Ferry Astika Saputra
+- Sasono Rahardjo
 
 ## Project Note
 This repository accompanies the manuscript:
