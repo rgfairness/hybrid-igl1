@@ -6,14 +6,14 @@ Leakage-aware hybrid feature selection pipeline for intrusion detection on the U
 
 - **Repository name:** hybrid-igl1
 - **Project lead / maintainer:** Andri Saputra
-- **Authors:** Andri Saputra, Kalamullah Ramli, Anto Satriyo Nugroho, I Gde Dharma Nugraha, Bernardi Pranggono
+- **Authors:** Andri Saputra, Kalamullah Ramli, Anto Satriyo Nugroho, I Gde Dharma Nugraha, Bernardi Pranggono. Ferry Astika   Nugraha, Sasono Rahardjo
 - **Repository metadata update:** 2026-04-15
 - **Status:** Research code accompanying a manuscript under journal review
 
 ## Related Manuscript
 
 **Title:**  
-*A Hybrid IGL1 Feature Selection Method for Intrusion Detection on UNSW-NB15 Using Multiple Machine Learning Models*
+*A Novel Hybrid IGL1 Feature Selection Method for High-Per-2 formance Intrusion Detection on the UNSW-NB15 Dataset Us-3 ing Multiple Machine Learning Models "
 
 This repository accompanies the manuscript above and provides the main notebook, selected-feature outputs, supporting result files, and figure assets used in the reported study.
 
